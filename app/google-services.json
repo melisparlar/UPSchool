@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "637171374910",
+    "project_id": "neeksiknefazla-a1585",
+    "storage_bucket": "neeksiknefazla-a1585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637171374910:android:e97767d805038005462a6f",
+        "android_client_info": {
+          "package_name": "com.example.neeksiknefazla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637171374910-1ijsn4e6c7afeq96sk0rgd6050okgeba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.neeksiknefazla",
+            "certificate_hash": "81854880061f7107b6a986a5ff7f9f73928e63f3"
+          }
+        },
+        {
+          "client_id": "637171374910-kpm11b03notl5l3tv3bcmurocmarmip2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDysI8u-sauZsgpk13g-6WEXkT8vqdsh0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637171374910-kpm11b03notl5l3tv3bcmurocmarmip2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

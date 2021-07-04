@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name" translatable="false">Ne Eksik Ne Fazla</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications" translatable="false">Profile</string>
+    <string name="title_profile" translatable="false">Notifications</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="company_s_name">Company\'s Name</string>
+    <string name="company_s_location">Company\'s Location</string>
+    <string name="tell_us_about_your_company">Tell us about your company...</string>
+    <string name="save">Save</string>
+    <string name="emailC">Email</string>
+    <string name="passwordC">Password</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="birthday">Birthday</string>
+    <string name="saveC">Save</string>
+    <string name="emailL">Email</string>
+    <string name="welcome">Welcome</string>
+    <string name="passwordL">Password</string>
+    <string name="homepage">homepage</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="login_succesful">Login succesful!</string>
+    <string name="email_empty_error">Email cannot be empty!</string>
+    <string name="password_length_error">Password must contain at least 8 characters!</string>
+    <string name="email_invalid_error">Email is not valid!</string>
+    <string name="menu_yemek_ad">Item</string>
+    <string name="cret">Price</string>
+    <string name="adet">Number</string>
+    <string name="toplam_tutar">Amount</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_client">Map</string>
+
+</resources>
